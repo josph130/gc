@@ -10,8 +10,8 @@ for magasin in magasins:
     dateF = date.today() - timedelta(days=91)
 
     with open(file_path, 'w') as file:
-        file.write(f"<?xml version="1.0" encoding="utf-8"?>")
-        file.write(f"<rss version="2.0">")
+        file.write(f"<?xml version=\"1.0\" encoding=\"utf-8\"?>")
+        file.write(f"<rss version=\"2.0\">")
         file.write(f"<channel>")
         file.write(f"<title>{magasin}</title>")
         file.write(f"<link>http://www.gocomics.com/{magasin}</link>")
