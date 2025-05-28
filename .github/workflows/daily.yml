@@ -2,7 +2,7 @@ name: Daily File Update
 
 on:
   schedule:
-    - cron: '45 19 * * *' # Her gün 00:00'da çalışır (UTC saatiyle)
+    - cron: '0 3 * * *' # Her gün 00:00'da çalışır (UTC saatiyle)
   workflow_dispatch: # Manuel tetikleme için
 
 jobs:
