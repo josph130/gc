@@ -5,13 +5,6 @@
 <link>https://www.gocomics.com/bc</link>
 <description>Gocomics bc</description>
 <item>
-<title>bc 11 April 2025</title>
-<link>https://www.gocomics.com/bc/2025/04/11</link>
-<guid>https://www.gocomics.com/bc/2025/04/11</guid>
-<pubDate>Fri, 11 Apr 2025 13:00:00 GMT</pubDate>
-<description>bc 11 April 2025</description>
-</item>
-<item>
 <title>bc 12 April 2025</title>
 <link>https://www.gocomics.com/bc/2025/04/12</link>
 <guid>https://www.gocomics.com/bc/2025/04/12</guid>
@@ -647,6 +640,13 @@
 <guid>https://www.gocomics.com/bc/2025/07/11</guid>
 <pubDate>Fri, 11 Jul 2025 13:00:00 GMT</pubDate>
 <description>bc 11 July 2025</description>
+</item>
+<item>
+<title>bc 12 July 2025</title>
+<link>https://www.gocomics.com/bc/2025/07/12</link>
+<guid>https://www.gocomics.com/bc/2025/07/12</guid>
+<pubDate>Sat, 12 Jul 2025 13:00:00 GMT</pubDate>
+<description>bc 12 July 2025</description>
 </item>
 </channel>
 </rss>
