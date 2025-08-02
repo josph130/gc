@@ -5,13 +5,6 @@
 <link>https://www.gocomics.com/heathcliff</link>
 <description>Gocomics heathcliff</description>
 <item>
-<title>heathcliff 2 May 2025</title>
-<link>https://www.gocomics.com/heathcliff/2025/05/02</link>
-<guid>https://www.gocomics.com/heathcliff/2025/05/02</guid>
-<pubDate>Fri, 2 May 2025 13:00:00 GMT</pubDate>
-<description>heathcliff 2 May 2025</description>
-</item>
-<item>
 <title>heathcliff 3 May 2025</title>
 <link>https://www.gocomics.com/heathcliff/2025/05/03</link>
 <guid>https://www.gocomics.com/heathcliff/2025/05/03</guid>
@@ -647,6 +640,13 @@
 <guid>https://www.gocomics.com/heathcliff/2025/08/01</guid>
 <pubDate>Fri, 1 Aug 2025 13:00:00 GMT</pubDate>
 <description>heathcliff 1 August 2025</description>
+</item>
+<item>
+<title>heathcliff 2 August 2025</title>
+<link>https://www.gocomics.com/heathcliff/2025/08/02</link>
+<guid>https://www.gocomics.com/heathcliff/2025/08/02</guid>
+<pubDate>Sat, 2 Aug 2025 13:00:00 GMT</pubDate>
+<description>heathcliff 2 August 2025</description>
 </item>
 </channel>
 </rss>
