@@ -5,13 +5,6 @@
 <link>https://www.gocomics.com/wizardofid</link>
 <description>Gocomics wizardofid</description>
 <item>
-<title>wizardofid 3 May 2025</title>
-<link>https://www.gocomics.com/wizardofid/2025/05/03</link>
-<guid>https://www.gocomics.com/wizardofid/2025/05/03</guid>
-<pubDate>Sat, 3 May 2025 13:00:00 GMT</pubDate>
-<description>wizardofid 3 May 2025</description>
-</item>
-<item>
 <title>wizardofid 4 May 2025</title>
 <link>https://www.gocomics.com/wizardofid/2025/05/04</link>
 <guid>https://www.gocomics.com/wizardofid/2025/05/04</guid>
@@ -647,6 +640,13 @@
 <guid>https://www.gocomics.com/wizardofid/2025/08/02</guid>
 <pubDate>Sat, 2 Aug 2025 13:00:00 GMT</pubDate>
 <description>wizardofid 2 August 2025</description>
+</item>
+<item>
+<title>wizardofid 3 August 2025</title>
+<link>https://www.gocomics.com/wizardofid/2025/08/03</link>
+<guid>https://www.gocomics.com/wizardofid/2025/08/03</guid>
+<pubDate>Sun, 3 Aug 2025 13:00:00 GMT</pubDate>
+<description>wizardofid 3 August 2025</description>
 </item>
 </channel>
 </rss>
