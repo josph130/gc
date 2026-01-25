@@ -5,13 +5,6 @@
 <link>https://www.gocomics.com/garfield</link>
 <description>Gocomics garfield</description>
 <item>
-<title>garfield 25 October 2025</title>
-<link>https://www.gocomics.com/garfield/2025/10/25</link>
-<guid>https://www.gocomics.com/garfield/2025/10/25</guid>
-<pubDate>Sat, 25 Oct 2025 13:00:00 GMT</pubDate>
-<description>garfield 25 October 2025</description>
-</item>
-<item>
 <title>garfield 26 October 2025</title>
 <link>https://www.gocomics.com/garfield/2025/10/26</link>
 <guid>https://www.gocomics.com/garfield/2025/10/26</guid>
@@ -647,6 +640,13 @@
 <guid>https://www.gocomics.com/garfield/2026/01/24</guid>
 <pubDate>Sat, 24 Jan 2026 13:00:00 GMT</pubDate>
 <description>garfield 24 January 2026</description>
+</item>
+<item>
+<title>garfield 25 January 2026</title>
+<link>https://www.gocomics.com/garfield/2026/01/25</link>
+<guid>https://www.gocomics.com/garfield/2026/01/25</guid>
+<pubDate>Sun, 25 Jan 2026 13:00:00 GMT</pubDate>
+<description>garfield 25 January 2026</description>
 </item>
 </channel>
 </rss>
