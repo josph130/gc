@@ -5,13 +5,6 @@
 <link>https://www.gocomics.com/back-to-bc</link>
 <description>Gocomics back-to-bc</description>
 <item>
-<title>back-to-bc 1 November 2025</title>
-<link>https://www.gocomics.com/back-to-bc/2025/11/01</link>
-<guid>https://www.gocomics.com/back-to-bc/2025/11/01</guid>
-<pubDate>Sat, 1 Nov 2025 13:00:00 GMT</pubDate>
-<description>back-to-bc 1 November 2025</description>
-</item>
-<item>
 <title>back-to-bc 2 November 2025</title>
 <link>https://www.gocomics.com/back-to-bc/2025/11/02</link>
 <guid>https://www.gocomics.com/back-to-bc/2025/11/02</guid>
@@ -647,6 +640,13 @@
 <guid>https://www.gocomics.com/back-to-bc/2026/01/31</guid>
 <pubDate>Sat, 31 Jan 2026 13:00:00 GMT</pubDate>
 <description>back-to-bc 31 January 2026</description>
+</item>
+<item>
+<title>back-to-bc 1 February 2026</title>
+<link>https://www.gocomics.com/back-to-bc/2026/02/01</link>
+<guid>https://www.gocomics.com/back-to-bc/2026/02/01</guid>
+<pubDate>Sun, 1 Feb 2026 13:00:00 GMT</pubDate>
+<description>back-to-bc 1 February 2026</description>
 </item>
 </channel>
 </rss>
