@@ -5,13 +5,6 @@
 <link>https://www.gocomics.com/nancy</link>
 <description>Gocomics nancy</description>
 <item>
-<title>nancy 4 January 2026</title>
-<link>https://www.gocomics.com/nancy/2026/01/04</link>
-<guid>https://www.gocomics.com/nancy/2026/01/04</guid>
-<pubDate>Sun, 4 Jan 2026 13:00:00 GMT</pubDate>
-<description>nancy 4 January 2026</description>
-</item>
-<item>
 <title>nancy 5 January 2026</title>
 <link>https://www.gocomics.com/nancy/2026/01/05</link>
 <guid>https://www.gocomics.com/nancy/2026/01/05</guid>
@@ -647,6 +640,13 @@
 <guid>https://www.gocomics.com/nancy/2026/04/05</guid>
 <pubDate>Sun, 5 Apr 2026 13:00:00 GMT</pubDate>
 <description>nancy 5 April 2026</description>
+</item>
+<item>
+<title>nancy 6 April 2026</title>
+<link>https://www.gocomics.com/nancy/2026/04/06</link>
+<guid>https://www.gocomics.com/nancy/2026/04/06</guid>
+<pubDate>Mon, 6 Apr 2026 13:00:00 GMT</pubDate>
+<description>nancy 6 April 2026</description>
 </item>
 </channel>
 </rss>
