@@ -5,13 +5,6 @@
 <link>https://www.gocomics.com/wizard-of-id-classics</link>
 <description>Gocomics wizard-of-id-classics</description>
 <item>
-<title>wizard-of-id-classics 1 April 2026</title>
-<link>https://www.gocomics.com/wizard-of-id-classics/2026/04/01</link>
-<guid>https://www.gocomics.com/wizard-of-id-classics/2026/04/01</guid>
-<pubDate>Wed, 1 Apr 2026 13:00:00 GMT</pubDate>
-<description>wizard-of-id-classics 1 April 2026</description>
-</item>
-<item>
 <title>wizard-of-id-classics 2 April 2026</title>
 <link>https://www.gocomics.com/wizard-of-id-classics/2026/04/02</link>
 <guid>https://www.gocomics.com/wizard-of-id-classics/2026/04/02</guid>
@@ -647,6 +640,13 @@
 <guid>https://www.gocomics.com/wizard-of-id-classics/2026/07/01</guid>
 <pubDate>Wed, 1 Jul 2026 13:00:00 GMT</pubDate>
 <description>wizard-of-id-classics 1 July 2026</description>
+</item>
+<item>
+<title>wizard-of-id-classics 2 July 2026</title>
+<link>https://www.gocomics.com/wizard-of-id-classics/2026/07/02</link>
+<guid>https://www.gocomics.com/wizard-of-id-classics/2026/07/02</guid>
+<pubDate>Thu, 2 Jul 2026 13:00:00 GMT</pubDate>
+<description>wizard-of-id-classics 2 July 2026</description>
 </item>
 </channel>
 </rss>
