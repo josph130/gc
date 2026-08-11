@@ -5,13 +5,6 @@
 <link>https://www.gocomics.com/peanuts</link>
 <description>Gocomics peanuts</description>
 <item>
-<title>peanuts 11 May 2026</title>
-<link>https://www.gocomics.com/peanuts/2026/05/11</link>
-<guid>https://www.gocomics.com/peanuts/2026/05/11</guid>
-<pubDate>Mon, 11 May 2026 13:00:00 GMT</pubDate>
-<description>peanuts 11 May 2026</description>
-</item>
-<item>
 <title>peanuts 12 May 2026</title>
 <link>https://www.gocomics.com/peanuts/2026/05/12</link>
 <guid>https://www.gocomics.com/peanuts/2026/05/12</guid>
@@ -647,6 +640,13 @@
 <guid>https://www.gocomics.com/peanuts/2026/08/10</guid>
 <pubDate>Mon, 10 Aug 2026 13:00:00 GMT</pubDate>
 <description>peanuts 10 August 2026</description>
+</item>
+<item>
+<title>peanuts 11 August 2026</title>
+<link>https://www.gocomics.com/peanuts/2026/08/11</link>
+<guid>https://www.gocomics.com/peanuts/2026/08/11</guid>
+<pubDate>Tue, 11 Aug 2026 13:00:00 GMT</pubDate>
+<description>peanuts 11 August 2026</description>
 </item>
 </channel>
 </rss>
