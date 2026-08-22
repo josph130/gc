@@ -5,13 +5,6 @@
 <link>https://www.gocomics.com/nancy-classics</link>
 <description>Gocomics nancy-classics</description>
 <item>
-<title>nancy-classics 22 May 2026</title>
-<link>https://www.gocomics.com/nancy-classics/2026/05/22</link>
-<guid>https://www.gocomics.com/nancy-classics/2026/05/22</guid>
-<pubDate>Fri, 22 May 2026 13:00:00 GMT</pubDate>
-<description>nancy-classics 22 May 2026</description>
-</item>
-<item>
 <title>nancy-classics 23 May 2026</title>
 <link>https://www.gocomics.com/nancy-classics/2026/05/23</link>
 <guid>https://www.gocomics.com/nancy-classics/2026/05/23</guid>
@@ -647,6 +640,13 @@
 <guid>https://www.gocomics.com/nancy-classics/2026/08/21</guid>
 <pubDate>Fri, 21 Aug 2026 13:00:00 GMT</pubDate>
 <description>nancy-classics 21 August 2026</description>
+</item>
+<item>
+<title>nancy-classics 22 August 2026</title>
+<link>https://www.gocomics.com/nancy-classics/2026/08/22</link>
+<guid>https://www.gocomics.com/nancy-classics/2026/08/22</guid>
+<pubDate>Sat, 22 Aug 2026 13:00:00 GMT</pubDate>
+<description>nancy-classics 22 August 2026</description>
 </item>
 </channel>
 </rss>
