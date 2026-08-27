@@ -1,4 +1,4 @@
-name: Daily File Update
+Name: Daily File Update
 
 on:
   schedule:
@@ -10,15 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4 # Updated from v3 to v4
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetches full history so rebase works cleanly
 
       - name: Set up Python
-        uses: actions/setup-python@v5 # Updated from v4 to v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt || true # Gerekirse bağımlılıkları yükle
+        run: pip install -r requirements.txt || true
 
       - name: Run Python script
         run: python script.py
@@ -29,6 +31,7 @@ jobs:
           git config --global user.email 'action@github.com'
           git add outputs/
           git commit -m "Günlük dosya güncellemesi: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git pull --rebase origin main
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
